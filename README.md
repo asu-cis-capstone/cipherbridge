@@ -5,10 +5,15 @@ Repo for project cipherbridge
 Team Biographies:
 
 Matt Babasick
+
 Bryan Fletcher
+
 Bryan Wegener
+
 Ryan McGinn
+
 Christopher Slater
+
 
 Elevator Pitch:
 
