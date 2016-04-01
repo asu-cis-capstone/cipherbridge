@@ -2,7 +2,7 @@
 # cipherbridge
 Repo for project cipherbridge
 
-Team Biographies:
+Team members:
 
 Matt Babasick
 
